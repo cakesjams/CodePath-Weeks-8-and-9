@@ -12,7 +12,7 @@ Time spent: **11** hours spent in total
     - Tested in version: 4.2
     - Fixed in version: 4.2.3
   - [ ] GIF Walkthrough: (164KB, ~6s)
-    - <img src="">
+    - <img src="1.gif">
   - [ ] Steps to recreate:
     - Upload a media item
     - Insert script into the title box for the Metadata
@@ -30,9 +30,9 @@ Time spent: **11** hours spent in total
     -  Version affected: 4.2
   	-	Fixed in: 4.2.5
   - [ ] GIF Walkthrough:
-    - <img src="">
+    - <img src="2.gif">
   - [ ] Steps to recreate:
-    - Get funky with quotes and put HTML inside of shortcodes. Put this in a post.
+    - Experiment quotes and put HTML inside of shortcodes
     ```
     [caption width='1' caption='<a href="' ">]</a><a href="onClick='alert(1)'">
     ```
@@ -41,13 +41,13 @@ Time spent: **11** hours spent in total
     - https://github.com/WordPress/WordPress/commit/f72b21af23da6b6d54208e5c1d65ececdaa109c8
 
 3. Authenticated Stored Cross-Site Scripting via Image Filename (CVE-2016-7168)
-  - [ ] Summary:
+  - Summary:
     -
     - Vulnerability type: XSS
     - Tested in version: 4.2
     - Fixed in version: 4.2.10
-  - [ ] GIF Walkthrough: (714KB, ~30s)
-    - <img src="">
+  - [ ] GIF Walkthrough:
+    - <img src="3.gif">
   - [ ] Steps to recreate:
     - Send an image with a malicious filename to the admin for upload or use in a post
       - Example: `zorua<img src=rekt onerror=alert(1)>.jpg`
