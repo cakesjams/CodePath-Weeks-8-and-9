@@ -11,7 +11,7 @@ Time spent: **11** hours spent in total
     - Vulnerability types: XSS
     - Tested in version: 4.2
     - Fixed in version: 4.2.3
-  - [ ] GIF Walkthrough: (164KB, ~6s)
+  - [ ] GIF Walkthrough
     - <img src="1.gif">
   - [ ] Steps to recreate:
     - Upload a media item
