@@ -12,7 +12,7 @@ Time spent: **11** hours spent in total
     - Tested in version: 4.2
     - Fixed in version: 4.2.3
   - [ ] GIF Walkthrough
-    - <img src="1.gif">
+    - <img src="2.gif">
   - [ ] Steps to recreate:
     - Upload a media item
     - Insert script into the title box for the Metadata
@@ -47,7 +47,7 @@ Time spent: **11** hours spent in total
     - Tested in version: 4.2
     - Fixed in version: 4.2.10
   - [ ] GIF Walkthrough:
-    - <img src="3.gif">
+    - <img src="1.gif">
   - [ ] Steps to recreate:
     - Send an image with a malicious filename to the admin for upload or use in a post
       - Example: `zorua<img src=rekt onerror=alert(1)>.jpg`
