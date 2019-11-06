@@ -30,7 +30,7 @@ Time spent: **11** hours spent in total
     -  Version affected: 4.2
   	-	Fixed in: 4.2.5
   - [ ] GIF Walkthrough:
-    - <img src="2.gif">
+    - <img src="1.gif">
   - [ ] Steps to recreate:
     - Experiment quotes and put HTML inside of shortcodes
     ```
